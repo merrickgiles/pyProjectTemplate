@@ -1,3 +1,1 @@
-You need to create a virtual environment. Then, add whatever you need into requirements.txt. Running `pip install -r requirements.txt` should install the pyproject automatically. 
-
-If it doesn't, run `pip install -e ` within your virtual environment to get the modules working. 
+You need to create a virtual environment. Then, run `pip install -e ` within your virtual environment to get the modules working. Finally, add whatever requirements you need and run `pip install -r requirements.txt`. 
