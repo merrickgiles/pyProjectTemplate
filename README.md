@@ -1,1 +1,1 @@
-You need to create a virtual environment. Then, run `pip install -e ` within your virtual environment to get the modules working. Finally, add whatever requirements you need and run `pip install -r requirements.txt`. 
+edit the .toml to your purpose. create a venv. run `pip install -e` within the venv. install your dependencies. when you set up requirements with `pip freeze > requirements.txt`, make sure you remove the -e requirement.
