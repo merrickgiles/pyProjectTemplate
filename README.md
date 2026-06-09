@@ -1,1 +1,1 @@
-edit the .toml to your purpose. create a venv. run `pip install -e` within the venv. install your dependencies. when you set up requirements with `pip freeze > requirements.txt`, make sure you remove the -e requirement.
+edit the .toml to your purpose. create a venv. run `pip install -e .` within the venv. install your dependencies. when you set up requirements with `pip freeze > requirements.txt`, make sure you remove the -e requirement.
